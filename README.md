@@ -80,4 +80,4 @@ HTML5
 ---
 
 **Series Navigation**  
-← [Lab 7 – HTML Forms](https://github.com/abhishekjambhale18-creator/BiteBox-Contact-Form) | [Lab 9 – Website Refactoring & Professional Layout Planning Part-2](https://github.com/abhishekjambhale18-creator/Website-Refactoring-and-Professional-Layout-Planning-Part-2) →
+← [Lab 7 – HTML Forms](https://github.com/abhishekjambhale18-creator/BiteBox-Contact-Form) | [Lab 9 – Website Refactoring & Professional Layout Planning Part - 2](https://github.com/abhishekjambhale18-creator/Website-Refactoring-and-Professional-Layout-Planning-Part-2) →
