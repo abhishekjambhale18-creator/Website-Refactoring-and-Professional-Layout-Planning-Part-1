@@ -1,4 +1,4 @@
-# 🍔 BiteBox Lab 8 – Full Website Structure
+# 🍔 BiteBox Lab 8 – Website Refactoring & Professional Layout Planning Part-1
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
@@ -80,4 +80,4 @@ HTML5
 ---
 
 **Series Navigation**  
-← [Lab 7 – HTML Forms](https://github.com/abhishekjambhale18-creator/BiteBox-Contact-Form) | Next Lab Coming Soon →
+← [Lab 7 – HTML Forms](https://github.com/abhishekjambhale18-creator/BiteBox-Contact-Form) | [Lab 9 – Website Refactoring & Professional Layout Planning Part-2](https://github.com/abhishekjambhale18-creator/Website_Refactoring_and_Professional_Layout_Planning_Part-2) →
